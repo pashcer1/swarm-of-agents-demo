@@ -17,5 +17,10 @@ git clone github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
 pip install -r requirements.txt
 python main.py --task "research top AI agent frameworks March 2026"
-
 ```
+
+## Project Structure
+- **AGENT.md** or **AGENTS.md** – describe your agents (name, role, tools, model)
+- **tools.py** – define custom tools (even dummy ones like pay_with_agentcash())
+- **agentcash-integration.md** – fake/speculative integration guide
+- **Folder /agents/** – multiple agent definitions
