@@ -1,5 +1,8 @@
 # Agentic AI Hackathon Agent – [Your Cool Name]
 
+![Agentic](https://img.shields.io/badge/Agentic-AI-blue)
+![Hackathon](https://img.shields.io/badge/Hackathon-pauleAI-orange)
+
 This is my entry / experiment for agentic AI hackathons (e.g. AgentCash, Agent Arena, etc.).
 
 ## What it does
@@ -14,3 +17,5 @@ git clone github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
 pip install -r requirements.txt
 python main.py --task "research top AI agent frameworks March 2026"
+
+```
